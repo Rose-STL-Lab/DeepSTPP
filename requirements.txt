@@ -1,0 +1,10 @@
+plotly==4.12.0
+torch==1.8.1
+pandas==1.2.4
+pytz==2021.1
+matplotlib==3.3.4
+scipy==1.6.2
+tqdm==4.47.0
+numpy==1.19.5
+ctrnn==2.0
+scikit_learn==1.0.2
