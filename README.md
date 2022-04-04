@@ -1,4 +1,4 @@
-# Deep Spatiotemporal Point Process [[arxiv][https://arxiv.org/abs/2112.06351]]
+# Deep Spatiotemporal Point Process [[arxiv](https://arxiv.org/abs/2112.06351)]
 
 **Zihao Zhou, Adam Yang, Ryan Rossi, Handong Zhao, Rose Yu**
 
