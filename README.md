@@ -1,4 +1,4 @@
-# Deep Spatiotemporal Point Process [[Paper](https://arxiv.org/abs/2112.06351)]
+# Deep Spatiotemporal Point Process [[Paper](https://proceedings.mlr.press/v168/zhou22a/zhou22a.pdf)]
 
 **Zihao Zhou, Adam Yang, Ryan Rossi, Handong Zhao, Rose Yu**
 
